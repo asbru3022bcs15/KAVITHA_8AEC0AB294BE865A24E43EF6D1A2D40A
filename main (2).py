@@ -11,7 +11,4 @@ def LinearSearchProduct(productList, targetProduct):
 products = ["shoes", "boot", "loafer", "shoes", "sandal", "shoes"]
 target = "shoes"
 result = LinearSearchProduct(products, target)
-print(result)l1=['shoes','cars','laptop']
-
-for i,j in enumerate(l1):
-  print(i,j)
+print(result)
